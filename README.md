@@ -48,4 +48,7 @@ I build these frameworks openly because digital sovereignty cannot be achieved i
 
 ---
 
-**[ STAND FOR PRIVACY ]**
+<br>
+<p align="center">
+  <code>[ STAND FOR PRIVACY ]</code>
+</p>
